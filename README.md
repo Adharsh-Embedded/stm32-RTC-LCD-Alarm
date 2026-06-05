@@ -56,7 +56,6 @@ A simple RTC-based Alarm Clock using the STM32 Nucleo-F446RE. The project displa
 
 ## Future Improvements
 
-- Add alarm stop button
 - Store alarm settings in backup registers
 - Support multiple alarms
 - Add AM/PM mode
